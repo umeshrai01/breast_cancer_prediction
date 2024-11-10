@@ -1,7 +1,8 @@
+streamlit==1.40.0
 pandas==1.5.0
 numpy==1.24.0
 scikit-learn==1.2.0
 matplotlib==3.7.0
 seaborn==0.11.2
-joblib==1.2.0  # If you're saving/loading models
-
+joblib==1.2.0
+setuptools==67.6.0
